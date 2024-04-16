@@ -1,0 +1,3 @@
+git add images/myth.heic  # Replace "your_image_file.png" with your actual image file name and path
+git commit -m "Add image: myth"
+git push origin main  # or git push origin master if your default branch is master
